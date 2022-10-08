@@ -1,3 +1,10 @@
 body {
     background-image: url(./media/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.teljes {
+    width: 1000px;
+    margin: auto;
 }
