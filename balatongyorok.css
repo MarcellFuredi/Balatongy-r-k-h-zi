@@ -89,3 +89,7 @@ a:visited {
 a:visited:hover {
     color: red;
 }
+
+p {
+    font-weight: bold;
+}
