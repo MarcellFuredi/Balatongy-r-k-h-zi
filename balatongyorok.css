@@ -90,6 +90,10 @@ a:visited:hover {
     color: red;
 }
 
-p {
+.vastag {
     font-weight: bold;
+}
+
+p {
+    padding-left: 20px;
 }
