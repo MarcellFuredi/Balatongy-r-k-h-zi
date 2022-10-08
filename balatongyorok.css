@@ -8,3 +8,26 @@ body {
     width: 1000px;
     margin: auto;
 }
+
+.header {
+    width: 1000px;
+    height: 240px;
+    background-image: url(./media/panorama.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-y: center;
+    margin: 0;
+    display: flex;
+}
+
+img {
+    height: 160px;
+    float: right;
+    margin-top: 40px;
+    margin-left: 320px;
+}
+
+h1 {
+    display: inline-block;
+    padding: 30px;
+}
