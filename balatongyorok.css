@@ -92,8 +92,9 @@ a:visited:hover {
 
 .vastag {
     font-weight: bold;
+    text-align: left;
 }
 
-p {
+.forrás {
     padding-left: 20px;
 }
